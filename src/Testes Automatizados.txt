@@ -1,0 +1,9 @@
+Testes Automatizados
+
+1 - Testes Unitários
+
+2- Testes de Integração
+
+  request => routes => controller => repository
+  <= repository <= controller <= response
+
